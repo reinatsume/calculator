@@ -79,7 +79,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func plus () {
-        label.text = String (0)
+        label.text = String ("+")
         
         operation = 1
         number2 = number
@@ -87,7 +87,7 @@ class ViewController: UIViewController {
         
     }
     @IBAction func minus() {
-       label.text = String (0)
+       label.text = String ("-")
         
         operation = 2
         number2 = number
@@ -96,7 +96,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func multiplication() {
-        label.text = String (0)
+        label.text = String ("×")
         
         operation = 3
         number2 = number
@@ -105,7 +105,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func devide () {
-        label.text = String (0)
+        label.text = String ("÷")
         
         operation = 4
         number2 = number
