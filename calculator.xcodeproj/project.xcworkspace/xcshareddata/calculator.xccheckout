@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E13CDE0-92B4-405D-9AE2-C69B3E80FA09</string>
+	<key>IDESourceControlProjectName</key>
+	<string>calculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>995B7BD44D9BBD39AE0725754B5CF6A5EECE51C6</key>
+		<string>https://github.com/reinatsume/calculator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>calculator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>995B7BD44D9BBD39AE0725754B5CF6A5EECE51C6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/reinatsume/calculator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>995B7BD44D9BBD39AE0725754B5CF6A5EECE51C6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>995B7BD44D9BBD39AE0725754B5CF6A5EECE51C6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>calculator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
